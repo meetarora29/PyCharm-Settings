@@ -1,0 +1,10 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="Coding" value="/media/meet/Windows/Users/Meet/Desktop/Coding" />
+    <macro name="Desktop" value="/home/meet/Desktop" />
+    <macro name="KOTLIN_BUNDLED" value="/media/meet/Windows/ProgramData/IntelliJ/idea-IU-172.4343.14/plugins/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/home/meet/.m2/repository" />
+    <macro name="Studies" value="/media/meet/Windows/Users/Meet/Desktop/Studies" />
+    <macro name="Windows" value="/media/meet/Windows/ProgramData" />
+  </component>
+</application>
